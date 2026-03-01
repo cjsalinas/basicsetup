@@ -1,0 +1,2 @@
+# basicsetup
+Automatic basic setup
