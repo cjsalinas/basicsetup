@@ -1,5 +1,6 @@
 " Germany , Ireland , Sweden , Colombia , Argentina , Chile , Brazil ,"
-#Germany
+7
+164
 0,"http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3","NDR2 Niedersachsen","audio/mp3"
 0,"http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3","NDR1 Hannover","audio/mp3"
 0,"http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3","WDR1","audio/mp3"
@@ -18,7 +19,6 @@
 0,"http://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3","WDR 2","audio/mp3"
 0,"http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3","NRW Schlagerradio","audio/mp3"
 0,"http://rnrw.cast.addradio.de/rnrw-0182/deinrock/low/stream.mp3","NRW Rockradio","audio/mp3"
-#Ireland
 1,"http://icecast.rte.ie/2fm","RtE 2 FM","audio/mp3"
 1,"https://icecast.rte.ie/radio1","RtE Radio 1","audio/mp3"
 1,"https://edge2.audioxi.com/KFM","Kildares KFM","audio/mp3"
@@ -55,7 +55,6 @@
 1,"http://stream.u2radio.com:9998/","U 2 Zoo Radio","audio/mp3"
 1,"https://edge7.audioxi.com/CH80S","Classic Hits 80s","audio/mp3"
 1,"https://ais-sa2.cdnstream1.com/2548_128.mp3","The Sound of Ireland","audio/mp3"
-#Sweden
 2,"https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3","NRJ","audio/mp3"
 2,"https://fm01-ice.stream.khz.se/fm01_mp3","RIXFM","audio/mp3"
 2,"https://fm10-ice.stream.khz.se/fm10_mp3","Jul Stockholm 107.5","audio/mp3"
@@ -66,7 +65,6 @@
 2,"https://fm05-ice.stream.khz.se/fm05_mp3","Star FM","audio/mp3"
 2,"https://tx.planetradio.co.uk/http_live_bauerse.php?i=svenskpop_se_mp3&aw_0_1st.playerid=BMUK_TuneIn","Svensk pop","audio/mp3"
 2,"https://sverigesradio.se/topsy/direkt/tunein/5283-hi.mp3","P4 Sodertalje Sweden","audio/mp3"
-#Colombia
 3,"https://usa6.fastcast4u.com/proxy/djerax?mp=/stream","Guadalupe Stereo","audio/mp3"
 3,"https://24363.live.streamtheworld.com/BLURADIO_SC","Blu Radio","audio/mp3"
 3,"http://27603.live.streamtheworld.com/TROPICANAAAC_SC?bw=32000","Tropicana","audio/aac"
@@ -105,12 +103,10 @@
 3,"http://167.114.113.108:10048/","La Voz de Yopal","audio/mp3"
 3,"https://estructuraweb.com.co:9186/live","HSB Radio","audio/mp3"
 3,"http://colombiaemite.com:10336/","Necocli Stereo","audio/mp3"
-#Argentina
 4,"https://24483.live.streamtheworld.com/FM999_56.mp3","FM 100","audio/mp3"
 4,"https://sh4.radioonlinehd.com:8583/stream","Radio Tucumana","audio/mp3"
 4,"https://https.nvradios.com/listen/metropolitana/radio.mp3","FM Metropolitana 93.5 Tucuman","audio/mp3"
 4,"https://alpha.radioplayer.com.ar/stream/continental","Radio Continental","audio/mp3"
-#CHILE
 5,"https://26683.live.streamtheworld.com/CORAZON.mp3","Radio Corazon","audio/mp3"
 5,"https://24413.live.streamtheworld.com/PUDAHUEL.mp3","Pudahuel","audio/mp3"
 5,"https://27403.live.streamtheworld.com/CONCIERTO.mp3","Concierto FM","audio/mp3"
@@ -140,7 +136,6 @@
 5,"https://sonic.mistreamingtv.uno/8014/stream","Frecuencia  Tropical","audio/mp3"
 5,"http://sonic.streamingchilenos.com:8210/","Corporacion Valparaiso","audio/mp3"
 5,"https://s6.jcwebnew.com:8070/","Radio     Festiva","audio/mp3"
-#Brazil
 6,"https://radioking.com/play/antena-1-campinas","Antena 1","audio/mp3"
 6,"http://r14.ciclano.io:8403/","Jovem Pan News AM","audio/mp3"
 6,"http://difusora24h.com:9304/stream","Band News FM","audio/mp3"
@@ -171,4 +166,3 @@
 6,"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM.mp3","Alpha FM","audio/mp3"
 6,"https://servidor35.brlogic.com:7094/live","Caioba FM","audio/mp3"
 6,"https://radio.saopaulo01.com.br:10913/","Radio Clube FM","audio/mp3"
-
