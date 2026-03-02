@@ -1,6 +1,7 @@
 " Germany , Ireland , Sweden , Colombia , Argentina , Chile , Brazil ,"
 7
 164
+18,36,10,37,4,29,30
 0,"http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3","NDR2 Niedersachsen","audio/mp3"
 0,"http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3","NDR1 Hannover","audio/mp3"
 0,"http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3","WDR1","audio/mp3"
