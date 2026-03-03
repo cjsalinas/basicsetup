@@ -1,6 +1,6 @@
 -GERMANY-,-IRELAND-,-SWEDEN-,-COLOMBIA-,-ARGENTINA-,-CHILE-,-BRAZIL-,-CANADA-,
 8
-176
+175
 18,36,10,37,4,29,30,12,
 0,http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3,NDR2 Niedersachsen,audio/mp3
 0,http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3,NDR1 Hannover,audio/mp3
