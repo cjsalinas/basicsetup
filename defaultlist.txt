@@ -1,7 +1,7 @@
--Germany-,-Ireland-,-Sweden-,-Colombia-,-Argentina-,-Chile-,-Brazil-,
-7
-164
-18,36,10,37,4,29,30
+-GERMANY-,-IRELAND-,-SWEDEN-,-COLOMBIA-,-ARGENTINA-,-CHILE-,-BRAZIL-,-CANADA-,
+8
+176
+18,36,10,37,4,29,30,12,
 0,http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3,NDR2 Niedersachsen,audio/mp3
 0,http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3,NDR1 Hannover,audio/mp3
 0,http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3,WDR1,audio/mp3
@@ -167,3 +167,15 @@
 6,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM.mp3,Alpha FM,audio/mp3
 6,https://servidor35.brlogic.com:7094/live,Caioba FM,audio/mp3
 6,https://radio.saopaulo01.com.br:10913/,Radio Clube FM,audio/mp3
+7,https://nyc-edge1-entry1.leanstream-hd.com:2112/VOCMFM-MP3-2,Capitale Rock,audio/mp3
+7,https://playerservices.streamtheworld.com/api/livestream-redirect/CBQTFM_CBC.mp3,CBC Radio 1 Ontario,audio/mp3
+7,https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1,Lighthouse FM,audio/mp3
+7,https://nyc-edge1-entry1.leanstream-hd.com:2112/VOCMFM-MP3-2,97.5 K-Rock,audio/mp3
+7,https://live.leanstream.co/CFMIFM-MP3,Rock 101,audio/mp3
+7,https://playerservices.streamtheworld.com/api/livestream-redirect/CKKXFM.mp3,Kix FM 106,audio/mp3
+7,https://nyc-edge1-entry1.leanstream-hd.com:2112/CFPLFM-MP3-2,FM 96,audio/mp3
+7,https://nyc-edge1-entry1.leanstream-hd.com:2112/CKQKFM-MP3,Hot 105.5,audio/mp3
+7,https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2,The New Classical,audio/mp3
+7,https://edge.mixlr.com/channel/zwjte,989 XFM,audio/mp3
+7,https://nyc-edge1-entry1.leanstream-hd.com:2112/CINGFM-MP3-2,Energy 95.3,audio/mp3
+7,https://nyc-edge1-entry1.leanstream-hd.com:2112/CFRQFM-MP3-2,Q 104,audio/mp3
