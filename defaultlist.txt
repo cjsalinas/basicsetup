@@ -108,7 +108,7 @@ _GERMANY_,_IRELAND_,_SWEDEN_,_COLOMBIA_,_ARGENTINA_,_CHILE_,_BRAZIL_,_CANADA_,
 4,https://sh4.radioonlinehd.com:8583/stream,Radio Tucumana,audio/mp3
 4,https://https.nvradios.com/listen/metropolitana/radio.mp3,FM Metropolitana 93.5 Tucuman,audio/mp3
 4,https://alpha.radioplayer.com.ar/stream/continental,Radio Continental,audio/mp3
-5,https://26683.live.streamtheworld.com/CORAZON.mp3,Radio Corazon,audio/mp3
+5,https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON.mp3,Radio Corazon,audio/mp3
 5,https://24413.live.streamtheworld.com/PUDAHUEL.mp3,Pudahuel,audio/mp3
 5,https://27403.live.streamtheworld.com/CONCIERTO.mp3,Concierto FM,audio/mp3
 5,https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS.mp3,FM DOS,audio/mp3
