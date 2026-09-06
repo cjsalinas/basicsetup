@@ -1,7 +1,7 @@
-_GERMANY_,_IRELAND_,_SWEDEN_,_COLOMBIA_,_ARGENTINA_,_CHILE_,_BRAZIL_,_CANADA_,
-8
-176
-18,36,10,37,4,29,30,6,
+_GERMANY,_IRELAND,_SWEDEN,_COLOMBIA,_ARGENTINA,_CHILE,_BRAZIL,_CANADA,_ITALY,_SPAIN,_UK,
+11
+211
+18,36,10,37,4,29,17,6,14,16,24,
 0,http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3,NDR2 Niedersachsen,audio/mp3
 0,http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3,NDR1 Hannover,audio/mp3
 0,http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3,WDR1,audio/mp3
@@ -137,40 +137,81 @@ _GERMANY_,_IRELAND_,_SWEDEN_,_COLOMBIA_,_ARGENTINA_,_CHILE_,_BRAZIL_,_CANADA_,
 5,https://sonic.mistreamingtv.uno/8014/stream,Frecuencia  Tropical,audio/mp3
 5,http://sonic.streamingchilenos.com:8210/,Corporacion Valparaiso,audio/mp3
 5,https://s6.jcwebnew.com:8070/,Radio     Festiva,audio/mp3
-6,https://radioking.com/play/antena-1-campinas,Antena 1,audio/mp3
-6,http://r14.ciclano.io:8403/,Jovem Pan News AM,audio/mp3
-6,http://difusora24h.com:9304/stream,Band News FM,audio/mp3
 6,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RECAAC.aac,Nova Brasil FM,audio/aac
 6,https://s03.maxcast.com.br:8188/live,Radio Mania FM,audio/mp3
 6,https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream,Radio Inconfidencia AM,audio/mp3
-6,http://stm18.pontocomunicacao.com:31696/,103 FM     Aracaju,audio/mp3
-6,https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8,Verdinha    810,audio/mp3
+6,http://stm18.pontocomunicacao.com:31696/;?type=http&nocache=51/,103 FM     Aracaju,audio/mp3
 6,https://stm14.xcast.com.br:11958/stream,Radio Nativa FM,audio/mp3
 6,https://9000.brasilstream.com.br/mp3,Radio Morada do Sol,audio/mp3
-6,https://shout25.crossradio.com.br:18002/,Gazeta FM,audio/mp3
 6,https://servidor28.brlogic.com:8018/live,Radio Difusora Sao Francisco,audio/mp3
 6,http://cast.hoost.com.br:9734/stream,Radio Sao Francisco,audio/mp3
-6,https://servidor35.brlogic.com:8206/live,Nossa Radio FM,audio/mp3
-6,https://servidor22.brlogic.com:7076/live,Radio Tribuna,audio/mp3
-6,https://ssl.conectastreaming.com:13086/,Curriata Brasil Rio de Janeiro ,audio/mp3
+6,https://ssl.conectastreaming.com:13086/;?type=http&nocache=5,Curriata Brasil Rio de Janeiro ,audio/mp3
 6,https://servidor34-1.brlogic.com:8180/live,Radio Educadora FM,audio/mp3
-6,http://01.stmip.in:27292/stream,RBN - Radio Boa Nova,audio/mp3
 6,https://servidor22.brlogic.com:7050/live,Radio Nove de Julho,audio/mp3
-6,https://8577.brasilstream.com.br/mp3,Radio Laser FM,audio/mp3
 6,https://azura1.cmaudioevideo.com:8020/radio.mp3,Curriata Brasil Rio de Janeiro,audio/mp3
 6,https://casthttps.suaradionanet.net/13325/stream,Radio Ilha FM,audio/mp3
-6,https://server2.webradios.com.br:9100/9100,Radio USP,audio/mp3
-6,https://servidor24.brlogic.com:8524/live,Nossa Radio,audio/mp3
 6,https://playerservices.streamtheworld.com/api/livestream-redirect/RS_RADIOONLINE.mp3,Radio Deus e Amor,audio/mp3
 6,https://8016.brasilstream.com.br/stream,Radio Difusora,audio/mp3
-6,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM.mp3,89 Radio Rock Sao Paulo,audio/mp3
-6,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM.mp3,Alpha FM,audio/mp3
-6,https://servidor35.brlogic.com:7094/live,Caioba FM,audio/mp3
-6,https://radio.saopaulo01.com.br:10913/,Radio Clube FM,audio/mp3
+6,https://27433.live.streamtheworld.com/RADIO_89FM.mp3,89 Radio Rock Sao Paulo,audio/mp3
+6,https://27593.live.streamtheworld.com/RADIO_ALPHAFM.mp3,Alpha FM,audio/mp3
 7,https://playerservices.streamtheworld.com/api/livestream-redirect/CBQTFM_CBC.mp3,CBC Radio 1 Ontario,audio/mp3
 7,https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1,Lighthouse FM,audio/mp3
 7,https://live.leanstream.co/CFMIFM-MP3,Rock 101,audio/mp3
 7,https://playerservices.streamtheworld.com/api/livestream-redirect/CKKXFM.mp3,Kix FM 106,audio/mp3
 7,https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2,The New Classical,audio/mp3
 7,https://edge.mixlr.com/channel/zwjte,989 XFM,audio/mp3
+8,https://icy.unitedradio.it/um019.mp3,Radio 105,audio/mp3
+8,https://icy.unitedradio.it/r101_mp3,Radio 101,audio/mp3
+8,https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8,Radio Capital,audio/mp3
+8,https://ice07.fluidstream.net:8080/KissKiss.mp3,Radio Kiss Kiss,audio/mp3
+8,https://icecast.unitedradio.it/Virgin.mp3,Virgin Radio,audio/mp3
+8,https://ice18.fluidstream.net/area12.mp3,Radio Number One,audio/mp3
+8,http://shoutcast2.radio24.ilsole24ore.com:8000/;?type=http&nocache=3307,Radio 24,audio/mp3
+8,https://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio,Radio Bruno,audio/mp3
+8,https://ice.studiopiu.net/radioplayer96.aac,Radio Studio Piu,audio/mp3
+8,https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8,Discoradio FM,audio/acc
+8,https://sphera.fluidstream.eu/company.mp3,Radio Company,audio/mp3
+8,https://ice02.fluidstream.net/piterpan.mp3?FLID=1&type=.mp3,Radio Piter Pan,audio/mp3
+8,https://icy.unitedradio.it/105Hits.mp3,Radio 105 - Hits,audio/mp3
+8,https://ice02.fluidstream.net/birikina.mp3,Radio Birikina,audio/mp3
+9,https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high,RNE Radio Clásica,audio/mp3
+9,https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high,RNE Radio 3,audio/mp3
+9,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3,Los 40,audio/mp3
+9,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3,Los 40 Classic,audio/mp3
+9,http://stream2.mediasector.es:8000/europafmmarinaalta.mp3,Europa FM,audio/mp3
+9,http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3,Radio Euskadi,audio/mp3
+9,https://stream2.mediasector.es/mas-activa.mp3,Activa FM,audio/mp3
+9,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3,Radiole,audio/mp3
+9,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3,Los 40 Urban,audio/mp3
+9,https://stream.emisorasmusicales.net/listen/muybuena/muybuena.mp3,Muy Buena FM,audio/mp3
+9,https://stream.emisorasmusicales.net/listen/la_flamenca/laflamenca.mp3,La Flamenca,audio/mp3
+9,https://stream2.mediasector.es/motiva.mp3,Motiva FM,audio/mp3
+9,http://eu8.fastcast4u.com:5014/stream.mp3,Spectrum FM,audio/mp3
+9,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3,Los 40 Dance,audio/mp3
+9,https://eu8.fastcast4u.com/proxy/bayradiospain?mp=/1,Bay Radio,audio/mp3
+9,https://streaming.enacast.com/radiob128.mp3,Radio B,audio/mp3
+10,http://sc6.radiocaroline.net:8040/mp3,Radio Caroline,audio/mp3
+10,https://icecast.thisisdax.com/CapitalWarwickMP3,Capital,audio/mp3
+10,https://icecast.thisisdax.com/ClassicFMMP3,Classic FM,audio/mp3
+10,https://ice-sov.musicradio.com/GoldMP3,Gold,audio/mp3
+10,https://icecast.thisisdax.com/HeartYorkshireMP3,Heart,audio/mp3
+10,https://icecast.thisisdax.com/CapitalDanceMP3,Capital Dance,audio/mp3
+10,https://icecast.thisisdax.com/Heart00sMP3,Heart - 00s,audio/mp3
+10,https://ice-sov.musicradio.com/Heart70sMP3,Heart - 70s,audio/mp3
+10,https://icecast.thisisdax.com/Heart80sMP3,Heart - 80s,audio/mp3
+10,https://icecast.thisisdax.com/Heart90sMP3,Heart - 90s,audio/mp3
+10,https://ice-sov.musicradio.com/HeartDanceMP3,Heart - Dance,audio/mp3
+10,https://icecast.thisisdax.com/SmoothRelaxMP3,Smooth Relax,audio/mp3
+10,https://icecast.thisisdax.com/SmoothWiltshireMP3,Smooth Radio,audio/mp3
+10,https://icecast.thisisdax.com/SmoothCountryMP3,Smooth Country,audio/mp3
+10,https://listen-nation.sharp-stream.com/breeze_soton.mp3,Hits Radio,audio/mp3
+10,https://direct.sharp-stream.com/sunriseradio.mp3,Sunrise Radio,audio/mp3
+10,https://icecast.thisisdax.com/CapitalAnthemsMP3,Capital Anthems,audio/mp3
+10,https://icecast.thisisdax.com/Smooth80sMP3,Smooth 80s,audio/mp3
+10,https://icecast.thisisdax.com/RadioXClassicRockMP3,Radio X - Classic Rock,audio/mp3
+10,https://icecast.thisisdax.com/RadioX90sMP3,Radio X - 90s,audio/mp3
+10,https://direct-qradio.sharp-stream.com/qr1029.mp3,Q Radio LON,audio/mp3
+10,https://stream.v2radio.co.uk/V2RadioHQMP3,V 2 Radio,audio/mp3
+10,https://listen-nation.sharp-stream.com/tcbridge.mp3,Bridge FM Radio,audio/mp3
+10,http://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3,Mi-Soul,audio/mp3
 99,https://nyc-edge1-entry1.leanstream-hd.com:2112/CFRQFM-MP3-2,Q 104,audio/mp3
