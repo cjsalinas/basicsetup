@@ -174,7 +174,7 @@ _GERMANY,_IRELAND,_SWEDEN,_COLOMBIA,_ARGENTINA,_CHILE,_BRAZIL,_CANADA,_ITALY,_SP
 8,https://ice02.fluidstream.net/piterpan.mp3?FLID=1&type=.mp3,Radio Piter Pan,audio/mp3
 8,https://icy.unitedradio.it/105Hits.mp3,Radio 105 - Hits,audio/mp3
 8,https://ice02.fluidstream.net/birikina.mp3,Radio Birikina,audio/mp3
-9,https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high,RNE Radio Clásica,audio/mp3
+9,https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high,RNE Radio Clasica,audio/mp3
 9,https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high,RNE Radio 3,audio/mp3
 9,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3,Los 40,audio/mp3
 9,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3,Los 40 Classic,audio/mp3
