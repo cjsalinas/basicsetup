@@ -1,7 +1,7 @@
 _GERMANY,_IRELAND,_SWEDEN,_COLOMBIA,_ARGENTINA,_CHILE,_BRAZIL,_CANADA,_ITALY,_SPAIN,_UK,
 11
 213
-18,36,10,37,4,31,17,6,14,16,24,
+18,36,10,37,4,31,17,6,7,16,24,
 0,http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3,NDR2 Niedersachsen,audio/mp3
 0,http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3,NDR1 Hannover,audio/mp3
 0,http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3,WDR1,audio/mp3
@@ -162,19 +162,12 @@ _GERMANY,_IRELAND,_SWEDEN,_COLOMBIA,_ARGENTINA,_CHILE,_BRAZIL,_CANADA,_ITALY,_SP
 7,https://playerservices.streamtheworld.com/api/livestream-redirect/CKKXFM.mp3,Kix FM 106,audio/mp3
 7,https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2,The New Classical,audio/mp3
 7,https://edge.mixlr.com/channel/zwjte,989 XFM,audio/mp3
-8,https://icy.unitedradio.it/um019.mp3,Radio 105,audio/mp3
-8,https://icy.unitedradio.it/r101_mp3,Radio 101,audio/mp3
-8,https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8,Radio Capital,audio/mp3
 8,https://ice07.fluidstream.net:8080/KissKiss.mp3,Radio Kiss Kiss,audio/mp3
-8,https://icecast.unitedradio.it/Virgin.mp3,Virgin Radio,audio/mp3
 8,https://ice18.fluidstream.net/area12.mp3,Radio Number One,audio/mp3
 8,http://shoutcast2.radio24.ilsole24ore.com:8000/;?type=http&nocache=3307,Radio 24,audio/mp3
 8,https://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio,Radio Bruno,audio/mp3
-8,https://ice.studiopiu.net/radioplayer96.aac,Radio Studio Piu,audio/mp3
-8,https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8,Discoradio FM,audio/acc
 8,https://sphera.fluidstream.eu/company.mp3,Radio Company,audio/mp3
 8,https://ice02.fluidstream.net/piterpan.mp3?FLID=1&type=.mp3,Radio Piter Pan,audio/mp3
-8,https://icy.unitedradio.it/105Hits.mp3,Radio 105 - Hits,audio/mp3
 8,https://ice02.fluidstream.net/birikina.mp3,Radio Birikina,audio/mp3
 9,https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high,RNE Radio Clasica,audio/mp3
 9,https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high,RNE Radio 3,audio/mp3
