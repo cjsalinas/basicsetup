@@ -113,7 +113,7 @@ _GERMANY,_IRELAND,_SWEDEN,_COLOMBIA,_ARGENTINA,_CHILE,_BRAZIL,_CANADA,_ITALY,_SP
 5,https://27403.live.streamtheworld.com/CONCIERTO.mp3,Concierto FM,audio/mp3
 5,https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS.mp3,FM DOS,audio/mp3
 5,https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC,FM DOS sc,audio/mp3
-5,https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC,FM DOS aac,audio/aac
+5,https://26573.live.streamtheworld.com/FMDOSAAC_SC,FM DOS aac,audio/aac
 5,https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA.mp3,Radio Activa,audio/mp3
 5,https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE.mp3,Los 40 Principales,audio/mp3
 5,https://mimix.mercurio.cl:8000/digitalfm,Digital FM,audio/mp3
